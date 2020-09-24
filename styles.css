@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #F59000;
+    background: linear-gradient(to left, rgb(255, 65, 108), rgb(255, 75, 43)); 
 }
 
 .loader {
